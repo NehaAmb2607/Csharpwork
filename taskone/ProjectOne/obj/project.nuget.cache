@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZjN/ZADjdH48jZpLZZQSI01VFbmsIaPm1CoxDq5rFW354tlRL/ydFmSUt0WwJJG+YWSRqsQbvadoK52VHu3ew==",
+  "success": true,
+  "projectFilePath": "D:\\C#work\\taskone\\ProjectOne\\ProjectOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

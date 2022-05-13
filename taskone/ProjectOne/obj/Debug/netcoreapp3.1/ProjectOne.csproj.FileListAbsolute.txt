@@ -1,0 +1,13 @@
+D:\C#work\taskone\ProjectOne\bin\Debug\netcoreapp3.1\ProjectOne.exe
+D:\C#work\taskone\ProjectOne\bin\Debug\netcoreapp3.1\ProjectOne.deps.json
+D:\C#work\taskone\ProjectOne\bin\Debug\netcoreapp3.1\ProjectOne.runtimeconfig.json
+D:\C#work\taskone\ProjectOne\bin\Debug\netcoreapp3.1\ProjectOne.runtimeconfig.dev.json
+D:\C#work\taskone\ProjectOne\bin\Debug\netcoreapp3.1\ProjectOne.dll
+D:\C#work\taskone\ProjectOne\bin\Debug\netcoreapp3.1\ProjectOne.pdb
+D:\C#work\taskone\ProjectOne\obj\Debug\netcoreapp3.1\ProjectOne.csproj.AssemblyReference.cache
+D:\C#work\taskone\ProjectOne\obj\Debug\netcoreapp3.1\ProjectOne.AssemblyInfoInputs.cache
+D:\C#work\taskone\ProjectOne\obj\Debug\netcoreapp3.1\ProjectOne.AssemblyInfo.cs
+D:\C#work\taskone\ProjectOne\obj\Debug\netcoreapp3.1\ProjectOne.csproj.CoreCompileInputs.cache
+D:\C#work\taskone\ProjectOne\obj\Debug\netcoreapp3.1\ProjectOne.dll
+D:\C#work\taskone\ProjectOne\obj\Debug\netcoreapp3.1\ProjectOne.pdb
+D:\C#work\taskone\ProjectOne\obj\Debug\netcoreapp3.1\ProjectOne.genruntimeconfig.cache
