@@ -1,0 +1,13 @@
+D:\C#work\ProjectBasics\ProjectBasics\obj\Debug\netcoreapp3.1\ProjectBasics.csproj.AssemblyReference.cache
+D:\C#work\ProjectBasics\ProjectBasics\obj\Debug\netcoreapp3.1\ProjectBasics.AssemblyInfoInputs.cache
+D:\C#work\ProjectBasics\ProjectBasics\obj\Debug\netcoreapp3.1\ProjectBasics.AssemblyInfo.cs
+D:\C#work\ProjectBasics\ProjectBasics\obj\Debug\netcoreapp3.1\ProjectBasics.csproj.CoreCompileInputs.cache
+D:\C#work\ProjectBasics\ProjectBasics\bin\Debug\netcoreapp3.1\ProjectBasics.exe
+D:\C#work\ProjectBasics\ProjectBasics\bin\Debug\netcoreapp3.1\ProjectBasics.deps.json
+D:\C#work\ProjectBasics\ProjectBasics\bin\Debug\netcoreapp3.1\ProjectBasics.runtimeconfig.json
+D:\C#work\ProjectBasics\ProjectBasics\bin\Debug\netcoreapp3.1\ProjectBasics.runtimeconfig.dev.json
+D:\C#work\ProjectBasics\ProjectBasics\bin\Debug\netcoreapp3.1\ProjectBasics.dll
+D:\C#work\ProjectBasics\ProjectBasics\bin\Debug\netcoreapp3.1\ProjectBasics.pdb
+D:\C#work\ProjectBasics\ProjectBasics\obj\Debug\netcoreapp3.1\ProjectBasics.dll
+D:\C#work\ProjectBasics\ProjectBasics\obj\Debug\netcoreapp3.1\ProjectBasics.pdb
+D:\C#work\ProjectBasics\ProjectBasics\obj\Debug\netcoreapp3.1\ProjectBasics.genruntimeconfig.cache
