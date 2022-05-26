@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gWpoQ0/Cfaz4XmRrcH+oZFNiJYKKVOKMe8B3yHbyKDluqWh4Iy2FkILX3msbVj4O75gbQ7nk0dEIEnkykya83g==",
+  "success": true,
+  "projectFilePath": "D:\\C#work\\WorkingwithValueNReference\\ReferencetypeValueType\\ReferencetypeValueType.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
