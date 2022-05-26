@@ -1,0 +1,13 @@
+D:\C#work\BasicLearning\BasicLearning\bin\Debug\netcoreapp3.1\BasicLearning.exe
+D:\C#work\BasicLearning\BasicLearning\bin\Debug\netcoreapp3.1\BasicLearning.deps.json
+D:\C#work\BasicLearning\BasicLearning\bin\Debug\netcoreapp3.1\BasicLearning.runtimeconfig.json
+D:\C#work\BasicLearning\BasicLearning\bin\Debug\netcoreapp3.1\BasicLearning.runtimeconfig.dev.json
+D:\C#work\BasicLearning\BasicLearning\bin\Debug\netcoreapp3.1\BasicLearning.dll
+D:\C#work\BasicLearning\BasicLearning\bin\Debug\netcoreapp3.1\BasicLearning.pdb
+D:\C#work\BasicLearning\BasicLearning\obj\Debug\netcoreapp3.1\BasicLearning.csproj.AssemblyReference.cache
+D:\C#work\BasicLearning\BasicLearning\obj\Debug\netcoreapp3.1\BasicLearning.AssemblyInfoInputs.cache
+D:\C#work\BasicLearning\BasicLearning\obj\Debug\netcoreapp3.1\BasicLearning.AssemblyInfo.cs
+D:\C#work\BasicLearning\BasicLearning\obj\Debug\netcoreapp3.1\BasicLearning.csproj.CoreCompileInputs.cache
+D:\C#work\BasicLearning\BasicLearning\obj\Debug\netcoreapp3.1\BasicLearning.dll
+D:\C#work\BasicLearning\BasicLearning\obj\Debug\netcoreapp3.1\BasicLearning.pdb
+D:\C#work\BasicLearning\BasicLearning\obj\Debug\netcoreapp3.1\BasicLearning.genruntimeconfig.cache

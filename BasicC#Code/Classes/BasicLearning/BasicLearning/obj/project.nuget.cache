@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "61PN+/D3aNu/++1qBTuYlYux5nWniokbDbjU5Oo5WvgLRzQVHJbXI/bUr3iaxDDY+VmC+ubszVr0vFpsdquweg==",
+  "success": true,
+  "projectFilePath": "D:\\C#work\\BasicLearning\\BasicLearning\\BasicLearning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
