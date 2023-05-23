@@ -1,0 +1,15 @@
+C:\Users\ambra\source\repos\FirstTestProgram\FirstTestProgram\bin\Debug\net6.0\FirstTestProgram.exe
+C:\Users\ambra\source\repos\FirstTestProgram\FirstTestProgram\bin\Debug\net6.0\FirstTestProgram.deps.json
+C:\Users\ambra\source\repos\FirstTestProgram\FirstTestProgram\bin\Debug\net6.0\FirstTestProgram.runtimeconfig.json
+C:\Users\ambra\source\repos\FirstTestProgram\FirstTestProgram\bin\Debug\net6.0\FirstTestProgram.dll
+C:\Users\ambra\source\repos\FirstTestProgram\FirstTestProgram\bin\Debug\net6.0\FirstTestProgram.pdb
+C:\Users\ambra\source\repos\FirstTestProgram\FirstTestProgram\obj\Debug\net6.0\FirstTestProgram.csproj.AssemblyReference.cache
+C:\Users\ambra\source\repos\FirstTestProgram\FirstTestProgram\obj\Debug\net6.0\FirstTestProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ambra\source\repos\FirstTestProgram\FirstTestProgram\obj\Debug\net6.0\FirstTestProgram.AssemblyInfoInputs.cache
+C:\Users\ambra\source\repos\FirstTestProgram\FirstTestProgram\obj\Debug\net6.0\FirstTestProgram.AssemblyInfo.cs
+C:\Users\ambra\source\repos\FirstTestProgram\FirstTestProgram\obj\Debug\net6.0\FirstTestProgram.csproj.CoreCompileInputs.cache
+C:\Users\ambra\source\repos\FirstTestProgram\FirstTestProgram\obj\Debug\net6.0\FirstTestProgram.dll
+C:\Users\ambra\source\repos\FirstTestProgram\FirstTestProgram\obj\Debug\net6.0\refint\FirstTestProgram.dll
+C:\Users\ambra\source\repos\FirstTestProgram\FirstTestProgram\obj\Debug\net6.0\FirstTestProgram.pdb
+C:\Users\ambra\source\repos\FirstTestProgram\FirstTestProgram\obj\Debug\net6.0\FirstTestProgram.genruntimeconfig.cache
+C:\Users\ambra\source\repos\FirstTestProgram\FirstTestProgram\obj\Debug\net6.0\ref\FirstTestProgram.dll
