@@ -1,0 +1,15 @@
+C:\Users\ambra\source\repos\Lecture5\Lecture5\bin\Debug\net6.0\Lecture5.exe
+C:\Users\ambra\source\repos\Lecture5\Lecture5\bin\Debug\net6.0\Lecture5.deps.json
+C:\Users\ambra\source\repos\Lecture5\Lecture5\bin\Debug\net6.0\Lecture5.runtimeconfig.json
+C:\Users\ambra\source\repos\Lecture5\Lecture5\bin\Debug\net6.0\Lecture5.dll
+C:\Users\ambra\source\repos\Lecture5\Lecture5\bin\Debug\net6.0\Lecture5.pdb
+C:\Users\ambra\source\repos\Lecture5\Lecture5\obj\Debug\net6.0\Lecture5.csproj.AssemblyReference.cache
+C:\Users\ambra\source\repos\Lecture5\Lecture5\obj\Debug\net6.0\Lecture5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ambra\source\repos\Lecture5\Lecture5\obj\Debug\net6.0\Lecture5.AssemblyInfoInputs.cache
+C:\Users\ambra\source\repos\Lecture5\Lecture5\obj\Debug\net6.0\Lecture5.AssemblyInfo.cs
+C:\Users\ambra\source\repos\Lecture5\Lecture5\obj\Debug\net6.0\Lecture5.csproj.CoreCompileInputs.cache
+C:\Users\ambra\source\repos\Lecture5\Lecture5\obj\Debug\net6.0\Lecture5.dll
+C:\Users\ambra\source\repos\Lecture5\Lecture5\obj\Debug\net6.0\refint\Lecture5.dll
+C:\Users\ambra\source\repos\Lecture5\Lecture5\obj\Debug\net6.0\Lecture5.pdb
+C:\Users\ambra\source\repos\Lecture5\Lecture5\obj\Debug\net6.0\Lecture5.genruntimeconfig.cache
+C:\Users\ambra\source\repos\Lecture5\Lecture5\obj\Debug\net6.0\ref\Lecture5.dll

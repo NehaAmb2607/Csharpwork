@@ -1,0 +1,15 @@
+C:\Users\ambra\source\repos\Lecture5\Lecture5LoopStatement\bin\Debug\net6.0\Lecture5LoopStatement.exe
+C:\Users\ambra\source\repos\Lecture5\Lecture5LoopStatement\bin\Debug\net6.0\Lecture5LoopStatement.deps.json
+C:\Users\ambra\source\repos\Lecture5\Lecture5LoopStatement\bin\Debug\net6.0\Lecture5LoopStatement.runtimeconfig.json
+C:\Users\ambra\source\repos\Lecture5\Lecture5LoopStatement\bin\Debug\net6.0\Lecture5LoopStatement.dll
+C:\Users\ambra\source\repos\Lecture5\Lecture5LoopStatement\bin\Debug\net6.0\Lecture5LoopStatement.pdb
+C:\Users\ambra\source\repos\Lecture5\Lecture5LoopStatement\obj\Debug\net6.0\Lecture5LoopStatement.csproj.AssemblyReference.cache
+C:\Users\ambra\source\repos\Lecture5\Lecture5LoopStatement\obj\Debug\net6.0\Lecture5LoopStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ambra\source\repos\Lecture5\Lecture5LoopStatement\obj\Debug\net6.0\Lecture5LoopStatement.AssemblyInfoInputs.cache
+C:\Users\ambra\source\repos\Lecture5\Lecture5LoopStatement\obj\Debug\net6.0\Lecture5LoopStatement.AssemblyInfo.cs
+C:\Users\ambra\source\repos\Lecture5\Lecture5LoopStatement\obj\Debug\net6.0\Lecture5LoopStatement.csproj.CoreCompileInputs.cache
+C:\Users\ambra\source\repos\Lecture5\Lecture5LoopStatement\obj\Debug\net6.0\Lecture5LoopStatement.dll
+C:\Users\ambra\source\repos\Lecture5\Lecture5LoopStatement\obj\Debug\net6.0\refint\Lecture5LoopStatement.dll
+C:\Users\ambra\source\repos\Lecture5\Lecture5LoopStatement\obj\Debug\net6.0\Lecture5LoopStatement.pdb
+C:\Users\ambra\source\repos\Lecture5\Lecture5LoopStatement\obj\Debug\net6.0\Lecture5LoopStatement.genruntimeconfig.cache
+C:\Users\ambra\source\repos\Lecture5\Lecture5LoopStatement\obj\Debug\net6.0\ref\Lecture5LoopStatement.dll
